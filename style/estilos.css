@@ -8,10 +8,11 @@ img{
     width: auto;
     height: auto;
 }
-body{
-    width: 100vh;
-    height: 100vh;
+.container{
+    width: 50%;
+    height: 50%;
     text-align: center;
-    margin: 0%;
+    align-items: center;
+    border: 1px solid black;
 
 }
